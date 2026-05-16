@@ -20,7 +20,7 @@ python --version
 ```
 2. Отидете в папката на проекта:
 ```
-cd tech_store
+cd pp-kursova-rabota-2026
 ```
 3. Стартирайте програмата:
 ```
